@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "notes": "",
+  "version": "1.1.3",
+  "notes": "Fixes printing from Print Chords and Print Arrangement, adds Check for Updates, and remembers each song's capo naming mode.",
   "windows": "https://github.com/neffdw/my-musical-mind-releases/releases/latest/download/My-Musical-Mind-Setup.exe",
   "mac": "https://github.com/neffdw/my-musical-mind-releases/releases/latest/download/My-Musical-Mind.dmg",
   "url": "https://www.modalmusicmaker.com"
